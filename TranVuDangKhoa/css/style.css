@@ -1,0 +1,6 @@
+.show-gird [class^="col-"]{
+	padding:10px 0 10px 0;
+	background-color:#6CF;
+	border:1px solid #000;
+}
+
